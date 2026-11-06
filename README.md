@@ -2,7 +2,7 @@
 
 A platform for drafting common legal agreements.
 
-> **Status:** early development. The repository doesn't contain application code yet. Setup and usage instructions will be added here as the first version takes shape.
+> **Status:** in progress. The first version is expected to be completed by **November 13, 2026**. Setup and usage instructions will be added here once it's ready.
 
 ## About
 
